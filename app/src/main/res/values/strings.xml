@@ -1,3 +1,68 @@
 <resources>
     <string name="app_name">lab4_mobile</string>
+
+    <string name="category_coffee_shops">Coffee Shops</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_museums">Museums</string>
+    <string name="category_landmarks">Landmarks</string>
+
+    <string name="place_starbucks_reserve_name">Starbucks Reserve Roastery</string>
+    <string name="place_starbucks_reserve_desc">A massive, immersive coffee experience with small-batch roasts and a cocktail bar.</string>
+    <string name="place_victrola_name">Victrola Coffee Roasters</string>
+    <string name="place_victrola_desc">Iconic Capitol Hill cafe known for its expert roasts and vibrant atmosphere.</string>
+    <string name="place_elm_name">Elm Coffee Roasters</string>
+    <string name="place_elm_desc">A minimalist, light-filled cafe in Pioneer Square serving some of the city\'s best espresso.</string>
+    <string name="place_fulcrum_name">Fulcrum Cafe</string>
+    <string name="place_fulcrum_desc">A cozy cafe in Wallingford with excellent coffee and a welcoming vibe.</string>
+    <string name="place_anchorhead_name">Anchorhead Coffee</string>
+    <string name="place_anchorhead_desc">Popular spot in Burien with creative drinks and a rustic-chic interior.</string>
+
+    <string name="place_canlis_name">Canlis</string>
+    <string name="place_canlis_desc">Legendary fine dining with stunning views of Lake Union and impeccable service.</string>
+    <string name="place_il_bistro_name">Il Bistro</string>
+    <string name="place_il_bistro_desc">Historic Italian restaurant in Post Alley, famous for its romantic ambiance.</string>
+    <string name="place_taylor_shellfish_name">Taylor Shellfish Oyster Bar</string>
+    <string name="place_taylor_shellfish_desc">Fresh oysters and shellfish from local waters, served in a casual setting.</string>
+    <string name="place_dick_s_name">Dick\'s Drive-In</string>
+    <string name="place_dick_s_desc">Seattle\'s beloved burger chain since 1954 — simple, cheap, and delicious.</string>
+    <string name="place_paseo_name">Paseo</string>
+    <string name="place_paseo_desc">Famous Caribbean roast sandwiches with a cult following.</string>
+
+    <string name="place_discovery_park_name">Discovery Park</string>
+    <string name="place_discovery_park_desc">Seattle\'s largest park with forests, meadows, and stunning views of Puget Sound.</string>
+    <string name="place_volunteer_park_name">Volunteer Park</string>
+    <string name="place_volunteer_park_desc">Historic park with a conservatory, water tower, and the Asian Art Museum.</string>
+    <string name="place_gas_works_name">Gas Works Park</string>
+    <string name="place_gas_works_desc">Unique park built on the site of a former gas plant, offering great skyline views.</string>
+    <string name="place_kerry_park_name">Kerry Park</string>
+    <string name="place_kerry_park_desc">Famous viewpoint for the Seattle skyline with the Space Needle.</string>
+    <string name="place_golden_gardens_name">Golden Gardens Park</string>
+    <string name="place_golden_gardens_desc">Beach park with sandy shores, fire pits, and sunset views over the Olympics.</string>
+
+    <string name="place_mopop_name">MoPOP</string>
+    <string name="place_mopop_desc">Museum of Pop Culture with exhibits on music, sci-fi, and gaming.</string>
+    <string name="place_sam_name">Seattle Art Museum</string>
+    <string name="place_sam_desc">Extensive collection of global art, from ancient to contemporary.</string>
+    <string name="place_wing_luke_name">Wing Luke Museum</string>
+    <string name="place_wing_luke_desc">Museum dedicated to Asian American and Pacific Islander culture and history.</string>
+    <string name="place_chi_mei_name">Chihuly Garden and Glass</string>
+    <string name="place_chi_mei_desc">Breathtaking glass art installations by Dale Chihuly.</string>
+    <string name="place_nordic_name">Nordic Museum</string>
+    <string name="place_nordic_desc">Celebrates Nordic culture in the heart of Ballard.</string>
+
+    <string name="place_space_needle_name">Space Needle</string>
+    <string name="place_space_needle_desc">Iconic 605-foot tower with an observation deck offering panoramic views.</string>
+    <string name="place_pike_place_name">Pike Place Market</string>
+    <string name="place_pike_place_desc">Historic public market overlooking the waterfront, famous for flying fish.</string>
+    <string name="place_great_wheel_name">Seattle Great Wheel</string>
+    <string name="place_great_wheel_desc">Giant Ferris wheel on Pier 57 with stunning waterfront views.</string>
+    <string name="place_waterfront_name">Seattle Waterfront</string>
+    <string name="place_waterfront_desc">Lively area with shops, restaurants, and piers.</string>
+    <string name="place_uu_name">University of Washington</string>
+    <string name="place_uu_desc">Beautiful campus with Gothic architecture and the famous cherry blossoms in spring.</string>
+
+    <string name="see_all">See all</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
 </resources>
